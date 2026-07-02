@@ -1,6 +1,6 @@
 <div align="center">
   
-# <span style="color: #0056b3;">🚀 COM3 Systems</span>
+# <span style="color: #0056b3;">🚀 COM3 Systems Engineering</span>
 
 ### _Inovação e tecnologia conectando negócios em todo o Brasil._
 
@@ -10,7 +10,7 @@
 
 ## <span style="color: #0056b3;">📌 Sobre Nós</span>
 
-A **COM3 Systems** é uma empresa especializada em **soluções tecnológicas** voltadas para o mercado corporativo, oferecendo sistemas de comunicação, conectividade e gestão de dados.
+A **COM3** é uma empresa especializada em **soluções tecnológicas** voltadas para o mercado corporativo, oferecendo sistemas de comunicação, conectividade e gestão de dados.
 
 Com foco em **eficiência** e **qualidade**, buscamos atender empresas de diferentes portes e segmentos, oferecendo serviços sob medida que garantem:
 
