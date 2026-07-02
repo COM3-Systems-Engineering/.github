@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color: #0056b3;">🚀 COM3 Systems Engineering</span>
+# <span style="color: #0056b3;">COM3 Systems Engineering</span>
 
 </div>
 
